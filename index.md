@@ -3,8 +3,7 @@
 
 # Code Example
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+$git clone https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Mhramon.git
 ```
 # Task list
 - [x] Turn on GitHub Pages
