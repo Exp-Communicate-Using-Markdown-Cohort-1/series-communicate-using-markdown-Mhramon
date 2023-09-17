@@ -1,19 +1,11 @@
-# H1 Header #
--- HEADER --
+# Learning Markdown #
 
-How it looks
+![Image markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMarkdown&psig=AOvVaw03NenwOdVc_hXv5at3uRDi&ust=1695013993699000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjK26nxsIEDFQAAAAAdAAAAABAD)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
--- IMAGE --
-
+```python
+def hello():
+    print("Hello, World!")
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
--- CODE EXAMPLE --
-
-- [ ] Turn on GitHub Pages
+- [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
-
--- LIST --
