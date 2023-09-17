@@ -3,7 +3,7 @@
 
 # Code Example
 ```
-$git clone https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Mhramon.git
+print('Hello World!')
 ```
 # Task list
 - [x] Turn on GitHub Pages
